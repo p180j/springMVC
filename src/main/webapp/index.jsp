@@ -8,7 +8,7 @@
 <body>
 
 <form id="stuForm"  action="stuInfo/getStuBystuNo.do">
-    <label>欢迎进入学生查询系统1</label>
+    <label>欢迎进入学生查询系统2</label>
     <label  value="请输入学号："/><input type="text" id="stuNo" name="stuNo"/>
     <input type="submit" value="查询2" />
 </form>
